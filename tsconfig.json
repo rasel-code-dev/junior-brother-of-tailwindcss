@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "CommonJS",
+    "allowJs": true,
+    "strict": true,
+    "inlineSourceMap": true,
+    "noImplicitAny": true
+    //    "lib": ["es2021"]
+  },
+  "ts-node": {
+    "compilerOptions": {
+      "module": "CommonJS"
+    }
+  },
+  "include": ["src/**"]
+}

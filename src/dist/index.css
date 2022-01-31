@@ -1,0 +1,4 @@
+
+.bg {background-color: #877EFF;color: #ff363c;margin : 2rem;display: flex
+}.bg-primary{background-color: #877EFF}.bg-info{background-color: #4fe740}.bg-secondary{background-color: #ef7859}.bg-danger{background-color: #ff363c}.text-primary{color: #877EFF}.text-info{color: #4fe740}.text-secondary{color: #ef7859}.text-danger{color: #ff363c}.block{display: block}.flex{display: flex}.inline{display: inline-block}
+

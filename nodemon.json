@@ -1,0 +1,6 @@
+{
+  "watch": ["src/"],
+  "ignore": ["dist/"],
+  "ext": "js, css, ts",
+  "exec": "ts-node-dev --respawn --transpile-only src/index.ts"
+}
